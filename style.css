@@ -36,6 +36,7 @@ html {
 .lovely {
   width: 100%;
   border-radius: 10%;
+  margin-top: -100px;
 }
 
 #tap {
@@ -184,3 +185,4 @@ body {
   padding: 0;
   text-align: center;
 }
+
